@@ -6,7 +6,7 @@ A JSplitter panel for foobar2000 that plays the **[Le Mellotron](https://www.lem
 
 Tested with JSplitter 3.9.10 and foobar2000 v2.25.9 portable (x86 Windows).
 
-![Screenshot of "Le-Mellotron-foobar2000", Le Mellotron Standalone Player & scrobbler for foobar2000](https://raw.githubusercontent.com/damsmcfly/Le-Mellotron-foobar2000/refs/heads/main/Le-Mellotron-foobar2000.png)
+![Screenshot of "LeMellotron-foobar2000", Le Mellotron Standalone Player & scrobbler for foobar2000](https://raw.githubusercontent.com/damsmcfly/LeMellotron-foobar2000/refs/heads/main/Le-Mellotron-foobar2000.png)
 
 ## Features
 
